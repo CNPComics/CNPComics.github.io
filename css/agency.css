@@ -128,6 +128,7 @@ img::-moz-selection {
 
 
 #mainNav .navbar-brand { 
+  max-height: 100px;
   line-height: 100px;
   color: #fed136;
   font-family: 'Kaushan Script', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
