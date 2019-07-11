@@ -154,29 +154,36 @@ img::-moz-selection {
     transition: padding-top 0.3s, padding-bottom 0.3s;
     border: none;
     background-color: transparent;
+    max-height: 100px;
   }
   #mainNav .navbar-brand {
     font-size: 1.75em;
     -webkit-transition: all 0.3s;
     transition: all 0.3s;
+    max-height: 100px;
   }
   #mainNav .navbar-nav .nav-item .nav-link {
     padding: 1.1em 1em !important;
+    max-height: 100px;
   }
   #mainNav.navbar-shrink {
     padding-top: 0;
     padding-bottom: 0;
     background-color: #212529;
+    max-height: 100px;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
     padding: 12px 0;
-  }
-}
+    max-height: 100px;
 
-.navbar {
+  }
+
+  .navbar {
   max-height: 100px;
 }
+}
+
 
 header.masthead {
   text-align: center;
