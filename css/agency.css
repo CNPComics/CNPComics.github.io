@@ -85,6 +85,7 @@ img::-moz-selection {
 .btn {
   font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   font-weight: 700;
+  color: #212529;
 }
 
 .btn-xl {
@@ -95,7 +96,7 @@ img::-moz-selection {
 .btn-primary {
   background-color: #D8F703;
   border-color: #D8F703;
-  font-color: #212529;
+  color: #212529;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
