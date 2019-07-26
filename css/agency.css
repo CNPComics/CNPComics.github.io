@@ -100,7 +100,7 @@ img::-moz-selection {
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
   background-color: #D8F703 !important;
   border-color: #D8F703 !important;
-  color: white;
+  color: black;
 }
 
 .btn-primary:active, .btn-primary:focus {
